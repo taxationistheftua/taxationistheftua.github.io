@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Storm SoftServe
 
-You can use the [editor on GitHub](https://github.com/taxationistheftua/taxationistheftua.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Що сталося
+На початку вересня було представлено нову схему оподаткування ФОПів для ІТ. Це схема передбачає збільшення податків більш ніж в двічі та створення не зрозумілого "фонду" із марксиською мотивацією.
+Авторами даної пропозиції виступають великі аутсорсингові компанії (ІТ асоціація) разом із новим урядом України. 
+Виглядає це все, як спроба великого бізнесу відкупитися від проблем із новою владою. Відкупитися за рахунок податків ФОПів.
+лінки на аін та доу
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Чому СС
 
-### Markdown
+6го вересня на сайті ДОУ з'явилася абсурдна стаття в підтримку даних нововедень від Ivan Leshko, Vice President Client Success в SoftServe. Це стаття викликала обурення спільноти та багато питань до представника даної компанії, який, як вигладає, сам податки не платить.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Це зовсім не означає, що в нас немає претензій до інших компаній із ІТ асоціації. Ми вітаємо будь-які ініціативи зібратися біля офісів інших великих компаній типу ЕПАМ'ів, GlobalLogic'ів та АП в Києві.
 
-```markdown
-Syntax highlighted code block
+### Зміст
+Зібратися під головним офісом СС в Львові та задати представникам цієї компанії наступні питання:
 
-# Header 1
-## Header 2
-### Header 3
+- коли великі українські аутсорсери типу СС почнуть платити податки із своїх надприбутків? 
+- як успішно проходить бізнес із Росією в SoftServe Business Systems? 
+- скільки податків заплатив Ivan Leshko за 2019 рік? Віце-президент оформлений на мінімальну з/п?
+- і тд
 
-- Bulleted
-- List
+### Коли
+Середина вересня. Підбермо день з гарною погодою.
 
-1. Numbered
-2. List
+### Я боюся, що мене можуть звільнити
+Не сміши. До того, ти ж ФОП, тобто підприємець, який надає послуги на власний страх та ризик. Ти і "платиш" за це низьким податком, який хочуть в тебе забрати. 
 
-**Bold** and _Italic_ and `Code` text
+### Це вигяладає не серйозно
+Ми живемо в часи інформаційних воєн, в часи, коли завдяки мемам стають президентами. Сама тільки наявність цієї простої сторінки завдає величезної репутаційної шкоди компанії СС. А дуже скоро із цього всього зроблять новини на топових сайтах країни. І це тільки початок. Думай-те.
 
-[Link](url) and ![Image](src)
-```
+### Що далі
+Це буде залежити від подальшних кроків уряду та IT association. Ми не виключаємо можливості масштабних страйків, які до речі, є нормою для всіх західних країн.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taxationistheftua/taxationistheftua.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Хто ми
+Ми прості українці, які нічим не кращі і не гірші за всіх інших. Ми виступаємо за дерегуляцію та зменшення податків у всіх сферах, не тільки ІТ. Ми виступаємо проти свавілля та безчинств нової влади, яка на другий день своєї каденції виріша "потрусити айтішніків". 
+Нам не потрібні профспілки, щоб боремося за свої права. Зробимо їх разом.
